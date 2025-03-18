@@ -16,6 +16,5 @@ public class TipeDataNumber {
         int binarDecimal = 0b10101010;
 
         int amount = 1_000_000_000;
-
     }
 }
